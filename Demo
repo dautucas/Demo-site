@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Edendale Sound</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="logo">Edendale Sound</div>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#work">Our Work</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Welcome to Edendale Sound</h1>
+    <p>Professional Sound Design and Mixing for Film</p>
+  </section>
+
+  <section id="about" class="about">
+    <h2>About Us</h2>
+    <p>We are a boutique sound design and mixing studio specializing in creating unforgettable audio experiences for filmmakers and content creators.</p>
+  </section>
+
+  <section id="services" class="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Sound Design</li>
+      <li>Dialogue Editing</li>
+      <li>Re-Recording Mixing</li>
+      <li>Music Composition</li>
+    </ul>
+  </section>
+
+  <section id="work" class="work">
+    <h2>Our Work</h2>
+    <div class="gallery">
+      <div class="gallery-item">Project 1</div>
+      <div class="gallery-item">Project 2</div>
+      <div class="gallery-item">Project 3</div>
+      <div class="gallery-item">Project 4</div>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <h2>Contact Us</h2>
+    <p>Email: info@edendalesound.com</p>
+    <p>Phone: +1 (555) 555-5555</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Edendale Sound. All rights reserved.</p>
+  </footer>
+</body>
+</html>
